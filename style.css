@@ -1,0 +1,260 @@
+#frame{
+    width: 751px;
+    height: 730px;
+}
+
+#header{
+    width: 750px;
+    height: 105px;
+}
+
+#internet_text{
+    color: #484848;
+    font-family: arial;
+    font-size: 34px;
+    display: inline-block;
+    letter-spacing: 3px;
+    vertical-align: 25px;
+}
+
+.globe{
+    display: inline-block;
+    width: 75px;
+}
+
+#web_text{
+    width: 735px;
+    background-color: #3074AA;
+    color: white;
+    font-family: Helvetica;
+    font-weight: lighter;
+    font-size: 24px;
+    padding: 10px;
+    margin-top: -30px;
+}
+
+#video_box{
+    width: 162px;
+    height: 170px;
+    display: inline-block;
+    border-bottom: 1px solid #C3C3C3;
+    margin-top: -15px;
+}
+
+#internet_red{
+    font-family: arial;
+    font-size: 13px;
+    font-weight: bold;
+    display: inline-block;
+}
+
+#network{
+    font-family: arial;
+    font-size: 11px;
+    font-weight: bold;
+    display: inline-block;
+    margin-top: 0px;
+}
+
+#video_button{
+    background-color: #3074AA;
+    font-family: arial;
+    color: white;
+    font-size: 14px;
+    padding: 6px 34px;
+    border-radius: 5px;
+    border: none;
+    box-shadow: 1px 1px 3px #888888;
+    display: inline-block;
+}
+
+#video_button2{
+    background-color: #F4A72B;
+    font-family: arial;
+    color: white;
+    font-size: 14px;
+    padding: 6px 29px;
+    border-radius: 5px;
+    border: none;
+    margin-top: 3px;
+    box-shadow: 1px 1px 3px #888888;
+    display: inline-block;
+}
+
+#DNS_box{
+    width: 540px;
+    height: 52px;
+    display: inline-block;
+    margin: -20px 0 0 40px;
+    vertical-align: top;
+}
+.house{
+    width: 18px;
+    padding: 10px;
+    margin-left: -25px;
+    display:inline-block;
+}
+
+#dns_text{
+    font-size: 14px;
+    font-family: helvetica;
+    color: #3074AA;
+    display: inline-block;
+    margin-left: -10px;
+    vertical-align: top;
+}
+
+#business_hours{
+    font-size: 8px;
+    color: gray;
+    font-family: helvetica;
+    display: inline-block;
+    vertical-align: top;
+    margin: -2px 0 0 385px;
+}
+
+#phone_number{
+    font-family: arial;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgb(0, 215, 252);
+    display: inline-block;
+    margin: -35px 0 0 415px;
+    vertical-align: top;
+}
+
+#international{
+    font-size: 8px;
+    color: gray;
+    font-family: helvetica;
+    display: inline-block;
+    margin-left: 420px;
+    margin-top: -31px;
+    vertical-align: top;
+}
+
+#content_box{
+    width: 550px;
+    height: 388px;
+    border-top: 1px solid #c4c4c4;
+    display: inline-block;
+    margin: -125px 0 0 193px;
+    padding-top: 5px;
+    vertical-align: top;
+}
+
+#server_title{
+    display: inline;
+    font-family: Arial;
+    font-weight: bold;
+    color: #1168AC;
+    vertical-align: top;   
+}
+
+#first_sent{
+    font-size: 12px;
+    font-family: arial;
+    margin-top: 2px;
+}
+
+.server_list{
+    font-size: 11px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -3px;
+}
+
+li{
+    margin: 10px 0;
+  }
+
+.server_img{
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.what_title{
+    font-family: Arial;
+    font-weight: bold;
+    color: #1168AC;
+}
+
+.steps_list{
+    font-size: 11px;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+
+
+.ad_bg{
+    width: 162px;
+    display: inline-block;
+    margin-top: -245px;
+    vertical-align: top;
+    box-shadow: 1px 1px 3px #3C3C3C;
+}
+
+h3{
+    text-align: center;
+    font-family: arial;
+    font-weight: lighter;
+    position: absolute;
+    top: 330px;
+    left: 20px;
+    color: white;
+}
+
+.ninja{
+    width: 63px;
+    position: absolute;
+    top: 420px;
+    left: 55px;
+}
+
+#learn_more{
+    background-color: rgb(0, 215, 252);
+    font-family: arial;
+    font-size: 14px;
+    padding: 5px 25px;
+    border: none;
+    color: white;
+    box-shadow: 1px 1px 2px #000000;
+    border-radius: 5px;
+    position: absolute;
+    top: 520px;
+    left: 20px;
+}
+
+#bottom_section{
+    width: 550px;
+    height: 100px;
+    border-top: 4px solid #007EE8;
+    border-left: 4px solid #007EE8;
+    border-right: 4px solid #007EE8;
+    display: inline-block;
+    vertical-align: top;
+    margin: 15px 0 0 27px;
+}
+
+#final_text{
+    display: inline-block;
+}
+
+.icons{
+    width: 87px;
+    display: inline-block;
+    margin: 15px;
+    vertical-align: top;
+}
+
+.bigthree_title{
+    font-family: Arial;
+    font-weight: bold;
+    color: #1168AC;
+}
+
+.bigthree_para{
+    font-size: 11px;
+    font-family: Arial, Helvetica, sans-serif; 
+    margin-top: -15px;
+}
